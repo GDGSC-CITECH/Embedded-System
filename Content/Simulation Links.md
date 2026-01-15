@@ -47,5 +47,6 @@ https://wokwi.com/projects/451391241763312641
 ---
 
 ## 👤 Contributor
-**Sankarshana V Shastry**  
-Embedded Systems | GDG Contributor
+**Sankarshana V Shastry**  Embedded Systems Lead | GDG Contributor
+**Yashas Mahesh** Embedded Systems Lead | AdAstra Contributor
+**S Nishaanth** Lead | AdAstra
