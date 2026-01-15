@@ -77,7 +77,7 @@ The projects focus on **sensor interfacing, signal processing, computer vision, 
 ## 👤 Contributor
 
 **Sankarshana V Shastry**  
-Embedded Systems | GDG Contributor
+Embedded Systems Lead | GDG Contributor
 
 ---
 
